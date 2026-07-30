@@ -3,7 +3,6 @@
   <channel>
     <title>הרב בניהו שמואלי</title>
     <description>שיעורי קבלה ופנימיות התורה מפי המקובל הרב בניהו שמואלי שליט"א, ראש ישיבת המקובלים "נהר שלום". כוונות התפילה, סודות התורה, אמונה וחיזוק, מועדי ישראל - אוצר התורה.</description>
-    <itunes:summary>שיעורי קבלה ופנימיות התורה מפי המקובל הרב בניהו שמואלי שליט"א, ראש ישיבת המקובלים "נהר שלום". כוונות התפילה, סודות התורה, אמונה וחיזוק, מועדי ישראל - אוצר התורה.</itunes:summary>
     <link>https://rabmeireliyahu.github.io/ravshmueli</link>
     <language>he</language>
     <itunes:author>הרב בניהו שמואלי</itunes:author>
@@ -1020,6 +1019,24 @@
       <guid isPermaLink="false">הגימטריה שמסתתרת ב＂חמשה עשר באב＂.mp3</guid>
       <pubDate>Wed, 29 Jul 2026 12:26:41 -0000</pubDate>
       <itunes:duration>00:01:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>🔥החיזוק היומי - כי אם ליראה🔥הרב בניהו שמואלי שליט＂א טז באב התשפ＂ו</title>
+      <description>🔥החיזוק היומי - כי אם ליראה🔥הרב בניהו שמואלי שליט＂א טז באב התשפ＂ו</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-benayahu-shmueli-shiurim/%F0%9F%94%A5%D7%94%D7%97%D7%99%D7%96%D7%95%D7%A7%20%D7%94%D7%99%D7%95%D7%9E%D7%99%20-%20%D7%9B%D7%99%20%D7%90%D7%9D%20%D7%9C%D7%99%D7%A8%D7%90%D7%94%F0%9F%94%A5%D7%94%D7%A8%D7%91%20%D7%91%D7%A0%D7%99%D7%94%D7%95%20%D7%A9%D7%9E%D7%95%D7%90%D7%9C%D7%99%20%D7%A9%D7%9C%D7%99%D7%98%EF%BC%82%D7%90%20%D7%98%D7%96%20%D7%91%D7%90%D7%91%20%D7%94%D7%AA%D7%A9%D7%A4%EF%BC%82%D7%95.mp3" length="31348890" type="audio/mpeg"/>
+      <guid isPermaLink="false">🔥החיזוק היומי - כי אם ליראה🔥הרב בניהו שמואלי שליט＂א טז באב התשפ＂ו.mp3</guid>
+      <pubDate>Thu, 30 Jul 2026 10:01:51 -0000</pubDate>
+      <itunes:duration>00:32:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>📖 הדף היומי מסכת חולין דף צא📖 הרב בניהו שמואלי שליט＂א טז אב תשפו</title>
+      <description>📖 הדף היומי מסכת חולין דף צא📖 הרב בניהו שמואלי שליט＂א טז אב תשפו</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-benayahu-shmueli-shiurim/%F0%9F%93%96%20%D7%94%D7%93%D7%A3%20%D7%94%D7%99%D7%95%D7%9E%D7%99%20%D7%9E%D7%A1%D7%9B%D7%AA%20%D7%97%D7%95%D7%9C%D7%99%D7%9F%20%D7%93%D7%A3%20%D7%A6%D7%90%F0%9F%93%96%20%D7%94%D7%A8%D7%91%20%D7%91%D7%A0%D7%99%D7%94%D7%95%20%D7%A9%D7%9E%D7%95%D7%90%D7%9C%D7%99%20%D7%A9%D7%9C%D7%99%D7%98%EF%BC%82%D7%90%20%D7%98%D7%96%20%D7%90%D7%91%20%D7%AA%D7%A9%D7%A4%D7%95.mp3" length="144898469" type="audio/mpeg"/>
+      <guid isPermaLink="false">📖 הדף היומי מסכת חולין דף צא📖 הרב בניהו שמואלי שליט＂א טז אב תשפו.mp3</guid>
+      <pubDate>Thu, 30 Jul 2026 10:10:49 -0000</pubDate>
+      <itunes:duration>02:30:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
