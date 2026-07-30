@@ -2,7 +2,8 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>הרב בניהו שמואלי</title>
-    <description>שיעורי המקובל הרב בניהו שמואלי - ישיבת נהר שלום</description>
+    <description>שיעורי קבלה ופנימיות התורה מפי המקובל הרב בניהו שמואלי שליט"א, ראש ישיבת המקובלים "נהר שלום". כוונות התפילה, סודות התורה, אמונה וחיזוק, מועדי ישראל - אוצר התורה.</description>
+    <itunes:summary>שיעורי קבלה ופנימיות התורה מפי המקובל הרב בניהו שמואלי שליט"א, ראש ישיבת המקובלים "נהר שלום". כוונות התפילה, סודות התורה, אמונה וחיזוק, מועדי ישראל - אוצר התורה.</itunes:summary>
     <link>https://rabmeireliyahu.github.io/ravshmueli</link>
     <language>he</language>
     <itunes:author>הרב בניהו שמואלי</itunes:author>
